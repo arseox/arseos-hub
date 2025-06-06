@@ -1,0 +1,2 @@
+# arseos-hub
+loadstring(game:HttpGet("https://pastebin.com/Z375qLUz"))(
